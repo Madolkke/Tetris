@@ -1,7 +1,5 @@
 # TETRIS
 
----
-
 ### Help
 
 `H`  Left Shift
